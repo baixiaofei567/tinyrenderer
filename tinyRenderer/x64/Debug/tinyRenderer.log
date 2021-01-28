@@ -1,0 +1,9 @@
+﻿  model.cpp
+  main.cpp
+D:\games101作业\tinyRenderer\main.cpp(40,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(69,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(70,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(71,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(72,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  tinyRenderer.vcxproj -> D:\games101作业\tinyRenderer\x64\Debug\tinyRenderer.exe

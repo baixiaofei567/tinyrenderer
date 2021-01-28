@@ -1,0 +1,2 @@
+D:\games101作业\tinyRenderer\x64\Debug\tinyRenderer.exe
+D:\games101作业\tinyRenderer\x64\Debug\tinyRenderer.pdb
