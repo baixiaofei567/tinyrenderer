@@ -1,9 +1,30 @@
-﻿  model.cpp
-  main.cpp
-D:\games101作业\tinyRenderer\main.cpp(40,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\games101作业\tinyRenderer\main.cpp(69,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\games101作业\tinyRenderer\main.cpp(70,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\games101作业\tinyRenderer\main.cpp(71,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\games101作业\tinyRenderer\main.cpp(72,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码...
+﻿  main.cpp
+D:\games101作业\tinyRenderer\main.cpp(45,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(73,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(139,74): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\games101作业\tinyRenderer\main.cpp(139,48): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\games101作业\tinyRenderer\main.cpp(146,127): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(146,110): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\games101作业\tinyRenderer\main.cpp(146,93): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\games101作业\tinyRenderer\geometry.h(19,78): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\games101作业\tinyRenderer\geometry.h(19): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+D:\games101作业\tinyRenderer\main.cpp(95): message : 查看对正在编译的函数 模板 实例化“Vec2<int> Vec2<int>::operator *(float) const”的引用
+D:\games101作业\tinyRenderer\main.cpp(60): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\games101作业\tinyRenderer\geometry.h(19,71): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
   tinyRenderer.vcxproj -> D:\games101作业\tinyRenderer\x64\Debug\tinyRenderer.exe
